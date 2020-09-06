@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-27T09:28:25 EDT" name="Surefire suite" finished-at="2020-08-27T09:28:26 EDT" duration-ms="751">
+    <groups>
+    </groups>
+    <test started-at="2020-08-27T09:28:25 EDT" name="Surefire test" finished-at="2020-08-27T09:28:26 EDT" duration-ms="751">
+      <class name="MvnLearning.MavenProjectExample.appiumTest">
+        <test-method signature="Four()[pri:0, instance:MvnLearning.MavenProjectExample.appiumTest@49c43f4e]" started-at="2020-08-27T09:28:26 EDT" name="Four" finished-at="2020-08-27T09:28:26 EDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Four -->
+        <test-method signature="Three()[pri:0, instance:MvnLearning.MavenProjectExample.appiumTest@49c43f4e]" started-at="2020-08-27T09:28:26 EDT" name="Three" finished-at="2020-08-27T09:28:26 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Three -->
+      </class> <!-- MvnLearning.MavenProjectExample.appiumTest -->
+      <class name="MvnLearning.MavenProjectExample.seleniumTest">
+        <test-method signature="Five()[pri:0, instance:MvnLearning.MavenProjectExample.seleniumTest@290dbf45]" started-at="2020-08-27T09:28:26 EDT" name="Five" finished-at="2020-08-27T09:28:26 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Five -->
+        <test-method signature="Six()[pri:0, instance:MvnLearning.MavenProjectExample.seleniumTest@290dbf45]" started-at="2020-08-27T09:28:26 EDT" name="Six" finished-at="2020-08-27T09:28:26 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Six -->
+      </class> <!-- MvnLearning.MavenProjectExample.seleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
